@@ -1,1 +1,2 @@
 # The-Impact-of-the-Labor-Force-Participation-Rate-Medicaid-Expansion-on-Insurance-Coverage
+  This project was completed for Economic Analytics (ECON 673) at Texas A&M University under Dr. Craig Schulman. The data set provided by Dr. Schulman includes all 50 U.S. States, Washington, D.C., and Puerto Rico from the years 2017 to 2022. The data categorizes each U.S. county into 61 different socio-demographic segments, then aggregated by the total number of individuals, number of insured, percent insured, number of uninsured, and percent uninsured for each segment.
