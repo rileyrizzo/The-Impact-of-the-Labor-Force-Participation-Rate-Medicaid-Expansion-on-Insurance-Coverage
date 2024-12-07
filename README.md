@@ -1,0 +1,1 @@
+# The-Impact-of-the-Labor-Force-Participation-Rate-Medicaid-Expansion-on-Insurance-Coverage
